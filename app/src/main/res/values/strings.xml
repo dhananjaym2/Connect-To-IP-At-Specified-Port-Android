@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApp1</string>
+
+    <string name="action_settings">Settings</string>
+    <!--<string name="app_name">Selfie</string>-->
+    <string name="OopsSomethingWentWrong">Oops! Something went wrong</string>
+    <string name="LoginWithFacebook">Tap to Login with facebook</string>
+    <string name="InternetConnectionHeading">No internet connection</string>
+    <string name="InternetConnectionMessage">No internet connection detected. A working internet connection is needed to continue.</string>
+</resources>
